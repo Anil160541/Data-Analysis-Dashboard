@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed an Excel-based Sales Analytics Dashboard using PivotTables, Pivot Charts, formulas, KPI cards, and filters to analyze sales, quantity, discounts, profit margins, products, regions, salespersons, and monthly trends for effective data-driven insights.
+# Sales Analytics Dashboard
+##  Project Overview
+Sales Analytics Dashboard is an interactive Excel-based dashboard designed to analyze sales performance across different regions,salespersons, products, quantities, discounts, sales amounts, and profit margins. The dashboard converts raw sales data into visual reports and KPI cards,making it easier to understand sales trends and compare business performance.
