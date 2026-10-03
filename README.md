@@ -4,3 +4,17 @@ Sales Analytics Dashboard is an interactive Excel-based dashboard designed to an
 
 ## Dataset used
 - <a href="https://github.com/Anil160541/Data-Analysis-Dashboard/blob/main/Dashboard.xlsx">Dataset</a>
+
+##  Questions (KPIs)
+The dashboard displays important KPIs at the top for quick analysis:
+-   Highest Quantity Sold: 250 units
+-   Salesperson associated with highest quantity: Meera Reddy
+-   Average Sales Amount: approximately 3,358
+-   Highest Profit Margin: 30%
+-   Highest Total Sales Amount: 1,250,000
+-   Product with highest profit margin: Product Z
+
+## Dashboard view
+- <a href="https://github.com/Anil160541/Data-Analysis-Dashboard/blob/main/Screenshot%202026-10-03%20134907.png">View dashboard</a>
+
+## Dashboard
