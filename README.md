@@ -14,7 +14,8 @@ The dashboard displays important KPIs at the top for quick analysis:
 -   Highest Total Sales Amount: 1,250,000
 -   Product with highest profit margin: Product Z
 
-## Dashboard view
+## Dashboard view 
 - <a href="https://github.com/Anil160541/Data-Analysis-Dashboard/blob/main/Screenshot%202026-10-03%20134907.png">View dashboard</a>
 
 ## Dashboard
+<img width="828" height="635" alt="Screenshot 2026-10-03 134907" src="https://github.com/user-attachments/assets/68b5f286-ed81-457a-841f-199d9490b1b9" />
