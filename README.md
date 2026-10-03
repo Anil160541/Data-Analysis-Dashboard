@@ -19,3 +19,20 @@ The dashboard displays important KPIs at the top for quick analysis:
 
 ## Dashboard
 <img width="828" height="635" alt="Screenshot 2026-10-03 134907" src="https://github.com/user-attachments/assets/68b5f286-ed81-457a-841f-199d9490b1b9" />
+
+## Tools & Technologies
+-   Microsoft Excel
+-   Excel Tables
+-   Excel formulas
+-   Pivot Tables
+-   Pivot Charts
+-   KPI cards
+-   Filters / Slicers
+-   Data aggregation and analysis
+-   Dashboard design and formatting
+-   
+## Dashboard Preview
+The final dashboard provides a single-screen view of sales KPIs, charts, filters, and monthly/regional/product analysis.
+
+## Conclusion
+The Sales Analytics Dashboard provides a clear and organized way to transform raw sales data into meaningful business insights. By combining KPI cards, PivotTables, charts, and filters, the dashboard makes it easier to monitor sales performance and compare products, regions, salespersons, and monthly trends.
